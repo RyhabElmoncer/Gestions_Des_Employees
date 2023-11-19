@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GestionEmploye.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestionEmploye.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\07f64985-da79-4f1f-bb84-ef3fe7849cec_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\07f64985-da79-4f1f-bb84-ef3fe7849cec_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\128417e7-751a-4c2a-aa90-35ceb549f7ae_cap2.PNG",
+      "PackagePath": "staticwebassets\\images\\128417e7-751a-4c2a-aa90-35ceb549f7ae_cap2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\1fa2a4e0-5bcc-40a0-a2d4-124b9d616d2a_906a815a-7f8c-48b6-a12f-3c77fb559c25_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\1fa2a4e0-5bcc-40a0-a2d4-124b9d616d2a_906a815a-7f8c-48b6-a12f-3c77fb559c25_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\217482b9-4b44-404f-a9ab-2588aaf115e9_1b1babd3-e222-40fa-9d16-8381f7cd8221_NNN.jpg",
+      "PackagePath": "staticwebassets\\images\\217482b9-4b44-404f-a9ab-2588aaf115e9_1b1babd3-e222-40fa-9d16-8381f7cd8221_NNN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\2c26b570-5089-4aa4-942c-60b5d2ab6747_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\2c26b570-5089-4aa4-942c-60b5d2ab6747_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\36557edd-70b1-4ebd-9666-555d4aefe495_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\36557edd-70b1-4ebd-9666-555d4aefe495_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\5d7df347-64c0-4a7a-815b-d01e921b8fe2_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\5d7df347-64c0-4a7a-815b-d01e921b8fe2_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\5e0ee41e-47c6-4cb5-87e1-afd45ba13960_Capture.PNG",
+      "PackagePath": "staticwebassets\\images\\5e0ee41e-47c6-4cb5-87e1-afd45ba13960_Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\828df832-7acf-47da-804e-3835c03dbe9c_42edd09e-61c0-4eed-931b-c8dc701ab349_ddd.pdf",
+      "PackagePath": "staticwebassets\\images\\828df832-7acf-47da-804e-3835c03dbe9c_42edd09e-61c0-4eed-931b-c8dc701ab349_ddd.pdf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\961c287e-2ac0-4ab5-922f-bc772ccf41b6_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\961c287e-2ac0-4ab5-922f-bc772ccf41b6_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\9d02ffa4-12f9-4ba1-8654-4e76687a849d_382806301_325785586718576_5805863578827431446_n.jpg",
+      "PackagePath": "staticwebassets\\images\\9d02ffa4-12f9-4ba1-8654-4e76687a849d_382806301_325785586718576_5805863578827431446_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\9d7cf905-8de8-4188-8469-83b9a8eed23a_e9e0ed81-1652-4488-9dc7-c406d778694a_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\9d7cf905-8de8-4188-8469-83b9a8eed23a_e9e0ed81-1652-4488-9dc7-c406d778694a_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\a2175194-68ba-4310-b88e-d4e9cf85d154_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\a2175194-68ba-4310-b88e-d4e9cf85d154_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\ab320c8a-5103-4f1b-8950-96c9ade246a5_382806301_325785586718576_5805863578827431446_n.jpg",
+      "PackagePath": "staticwebassets\\images\\ab320c8a-5103-4f1b-8950-96c9ade246a5_382806301_325785586718576_5805863578827431446_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\d29eb92c-0bf6-48ff-9bf7-2dc803f3b199_cp1.PNG",
+      "PackagePath": "staticwebassets\\images\\d29eb92c-0bf6-48ff-9bf7-2dc803f3b199_cp1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\dbdf0901-1508-48c1-be6a-4de15f21e8b5_bbn.jpg",
+      "PackagePath": "staticwebassets\\images\\dbdf0901-1508-48c1-be6a-4de15f21e8b5_bbn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\e89a78ed-4f3f-4779-af0e-a7906dbdfc29_cp1.PNG",
+      "PackagePath": "staticwebassets\\images\\e89a78ed-4f3f-4779-af0e-a7906dbdfc29_cp1.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\f38ebff9-e72b-4ef7-8320-f062a7eb1818_43bb4aa3-719f-498a-8ceb-80a290140fc2_382806301_325785586718576_5805863578827431446_n.jpg",
+      "PackagePath": "staticwebassets\\images\\f38ebff9-e72b-4ef7-8320-f062a7eb1818_43bb4aa3-719f-498a-8ceb-80a290140fc2_382806301_325785586718576_5805863578827431446_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\images\\ff7fe851-552a-4c3c-a607-5e8c8978fda6_d5fdb9e5-a102-4f16-a43b-3828b07e7c03_1c7e1e76-2b98-49a6-92c6-4df296503347_382806301_325785586718576_5805863578827431446_n.jpg",
+      "PackagePath": "staticwebassets\\images\\ff7fe851-552a-4c3c-a607-5e8c8978fda6_d5fdb9e5-a102-4f16-a43b-3828b07e7c03_1c7e1e76-2b98-49a6-92c6-4df296503347_382806301_325785586718576_5805863578827431446_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\GestionEmploye\\GestionEmploye\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GestionEmploye.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GestionEmploye.props",
+      "PackagePath": "build\\GestionEmploye.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionEmploye.props",
+      "PackagePath": "buildMultiTargeting\\GestionEmploye.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GestionEmploye.props",
+      "PackagePath": "buildTransitive\\GestionEmploye.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
