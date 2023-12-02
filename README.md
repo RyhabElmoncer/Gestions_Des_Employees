@@ -4,9 +4,10 @@
 
 ## Configuration du Projet
 #### Migration et Base de Données
-Pour créer la base de données, appliquez la migration avec la commande suivante dans la console du gestionnaire de package NuGet :
-"""Add-Migration InitialCreate"""
-Puis mettez à jour la base de données avec la commande 
-"""Update-Database"""
+#### créer la base de données,
+appliquez la migration avec la commande suivante dans la console du gestionnaire de package NuGet :
+##### Add-Migration InitialCreate"""
+#### mettez à jour la base de données avec la commande 
+##### Update-Database"""
 
 
