@@ -9,5 +9,7 @@ appliquez la migration avec la commande suivante dans la console du gestionnaire
 ##### Add-Migration InitialCreate"""
 #### mettez à jour la base de données avec la commande 
 ##### Update-Database"""
-
-
+<video width="320" height="240" controls>
+  <source src="lien_vers_la_video.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
