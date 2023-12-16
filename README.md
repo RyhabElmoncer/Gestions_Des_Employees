@@ -9,7 +9,8 @@ appliquez la migration avec la commande suivante dans la console du gestionnaire
 ##### Add-Migration InitialCreate"""
 #### mettez à jour la base de données avec la commande 
 ##### Update-Database"""
-<video width="320" height="240" controls>
-  <source src="lien_vers_la_video.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+
+
+
+https://github.com/RyhabElmoncer/Gestions_Des_Employees/assets/126770762/89e40c5b-5543-4fb8-aaf7-51a0a025d889
+
